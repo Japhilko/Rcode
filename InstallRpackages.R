@@ -71,6 +71,9 @@ install.packages("shape")
 
 install.packages("DiagrammeR")
 
+install.packages("htmlwidgets")
+
+
 #------------------------#
 # fremde Datensätze
 #------------------------#
