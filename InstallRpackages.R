@@ -115,7 +115,7 @@ install.packages("Rz")
 
 
 #------------------------#
-# Pakete fuer Geographie
+# packages for geography
 #------------------------#
 
 install.packages("sp")
@@ -144,7 +144,7 @@ install.packages("spatgraphs")
 
 install.packages("DCluster")   # spatial clusters of diseases
 
-  # R als GIS nutzen
+  # use R as GIS
 install.packages("gdistance")
 install.packages("googleVis")
 
@@ -179,6 +179,8 @@ install.packages("micromapST")
 
 install.packages("Grid2Polygons")
 
+
+install.packages("celestial")
 
 #------------------------#
 # Datenquellen (geographisch)
